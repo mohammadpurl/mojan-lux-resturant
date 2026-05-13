@@ -1,0 +1,1 @@
+export const themeInitScript = `(function(){try{var t=localStorage.getItem('mozhan-theme')||'dark';if(t==='dark')document.documentElement.classList.add('dark');}catch(e){document.documentElement.classList.add('dark');}})();`;
