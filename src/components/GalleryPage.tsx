@@ -7,7 +7,7 @@ import dish1 from "@/assets/dish-1.jpg";
 import cocktail from "@/assets/cocktail.jpg";
 import dessert from "@/assets/dessert.jpg";
 import events from "@/assets/events.jpg";
-import socialA from "@/assets/558554932_18059589308575475_4156771246830122148_n.jpg";
+import socialA from "@/assets/14.jpg";
 import amb2 from "@/assets/IMG_20260430_141147.jpg";
 import mod2 from "@/assets/IMG_20260504_170316.jpg";
 import out1 from "@/assets/IMG_20260504_170515.jpg";
