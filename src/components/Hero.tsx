@@ -1,5 +1,5 @@
 import { Calendar, Clock, MapPin, Menu, Phone } from "lucide-react";
-import heroBg from "@/assets/heropic2.png";
+import heroBg from "@/assets/Heropic2.png";
 
 export function Hero() {
   return (
